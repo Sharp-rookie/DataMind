@@ -9,6 +9,7 @@
 
 
 Ref：
+
 [1] https://github.com/Embedding/Chinese-Word-Vectors
 
 [2] https://chengjun.github.io/mybook/11-2-emotion-dict.html
